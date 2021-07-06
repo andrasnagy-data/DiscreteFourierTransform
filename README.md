@@ -9,10 +9,13 @@ This is the DFT of the "individual" audios that "make up" the combined.wav.
 ![image](/plots/DFT_combined_lows.png)
 And this is the DFT of the combined.wav.
 
-Lastly, I created a spectogram of the combined.wav, with the intention of later using this technique,
-to classify sounds by using a pre-trained computer vision model (transfer learning).
-The spectogram of combined.wav:
+Lastly, I created a spectogram ("visual representation of the spectrum of frequencies of a signal as it varies 
+with time" - wikipedia) of the combined.wav. The spectogram of combined.wav:
 ![image](/plots/combined_spectogram.png)
 
+
+
 **Conclusion:** The algorithm managed to produce an (almost) identical representation of combined.wav,
-compared to the graph of all the individual (building) notes. 
+compared to the graph of all the individual (building) notes.
+
+*Next Project Idea*: Visualize "sounds" as spectogram and use a computer vision model to classify them. 
