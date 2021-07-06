@@ -13,3 +13,6 @@ Lastly, I created a spectogram of the combined.wav, with the intention of later 
 to classify sounds by using a pre-trained computer vision model (transfer learning).
 The spectogram of combined.wav:
 ![image](/plots/combined_spectogram.png)
+
+**Conclusion:** The algorithm managed to produce an (almost) identical representation of combined.wav,
+compared to the graph of all the individual (building) notes. 
