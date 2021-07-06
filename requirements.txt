@@ -1,0 +1,8 @@
+scipy
+numpy
+matplotlib
+pandas
+IPython
+pydub
+ffmpeg
+jupyter-notebook
