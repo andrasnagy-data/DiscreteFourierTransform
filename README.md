@@ -15,7 +15,5 @@ with time" - wikipedia) of the combined.wav. The spectogram of combined.wav:
 
 
 
-**Conclusion:** The algorithm managed to produce an (almost) identical representation of combined.wav,
-compared to the graph of all the individual (building) notes.
+**Conclusion:** The algorithm managed to produce an (almost) identical representation of combined.wav, in terms of the decomposed frequencies.
 
-*Next Project Idea*: Visualize "sounds" as spectogram and use a computer vision model to classify them. 
